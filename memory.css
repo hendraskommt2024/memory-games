@@ -1,0 +1,30 @@
+.blk {
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+  }
+  .card {
+    margin: 5px;
+    padding: 3px;
+    width: 30px;
+    height: 30px;
+    border: solid 1px #f00;
+    font: bold 1.5em verdana, arial, sans-serif;
+  }
+  .back {
+    background: #ccc;
+    cursor: pointer;
+  }
+  .cf1 {
+    background: #ff0;
+    color: #00f;
+  }
+  .cf2 {
+    background: #f9f;
+    color: #00f;
+  }
+  .cf3 {
+    background: #0cf;
+    color: #c00;
+  }
+  
